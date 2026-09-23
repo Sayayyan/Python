@@ -6,6 +6,16 @@
 
 **Python** adalah bahasa pemrograman tingkat tinggi yang pertama kali dikembangkan oleh **Guido van Rossum** pada tahun **1989** di CWI (Centrum Wiskunde & Informatica) di Belanda. Guido memulai pengembangan Python sebagai pengganti bahasa pemrograman ABC yang pernah dia kerjakan sebelumnya.
 
+**Inspirasi Python:**
+Python terinspirasi terutama dari bahasa pemrograman **ABC** yang mengembangkan konsep tipe data dinamis, penanganan exception, dan fungsionalitas tinggi. Selain itu, Python juga terpengaruh oleh:
+- **C**: Sintaks, struktur, dan fleksibilitasnya
+- **Modula-3**: Konsep modul dan package
+- **Smalltalk**: Konsep orientasi objek yang bersih
+- **Lisp**: Konsep fungsional dan powerful metaprogramming (meski Python tidak mengikutinya secara langsung)
+- **Shell scripting**: Kemudahan penggunaan dan readable syntax
+
+Nama "Python" sendiri diambil dari acara televisi BBC **"Monty Python's Flying Circus"** yang disukai oleh Guido, bukan dari ular python seperti namanya.
+
 - **1991**: Python versi 0.9.0 pertama kali dirilis ke publik, sudah mendukung konsep orientasi objek dan tipe data dasar.
 - **1994**: Python 1.0 dirilis dengan fitur fungsional seperti lambda, map, filter, dan reduce.
 - **2000**: Python 2.0 dirilis dengan fitur cycle-detecting garbage collector, list comprehensions, dan NumPy.

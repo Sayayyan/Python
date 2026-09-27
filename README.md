@@ -4,7 +4,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="150" alt="Python Logo" />
   </a>
 
-  <h1>🐍 Latihan Python</h1>
+  <h1>Latihan Python</h1>
 
   <h3>Materi & Latihan Bahasa Pemrograman Python - Bu Marissa</h3>
 

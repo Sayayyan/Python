@@ -1,4 +1,21 @@
-# Latihan Python - XI RPL III
+<div align="center">
+
+  <a href="https://www.python.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="150" alt="Python Logo" />
+  </a>
+
+  <h1>🐍 Latihan Python - XI RPL III</h1>
+
+  <h3>Materi & Latihan Bahasa Pemrograman Python - Bu Marissa</h3>
+
+  [![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![Kelas](https://img.shields.io/badge/Kelas-XI_RPL_III-FFD43B?style=for-the-badge&logo=graduationcap&logoColor=306998)](https://www.python.org/)
+  [![Status](https://img.shields.io/badge/Status-Latihan-success?style=for-the-badge)](https://www.python.org/)
+  [![Made With](https://img.shields.io/badge/Made_with-Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org/)
+
+  <p><b>Belajar Python dari Dasar: Tipe Data, Variabel, Operator, Percabangan & Perulangan</b></p>
+
+</div>
 
 ---
 

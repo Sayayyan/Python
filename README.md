@@ -6,7 +6,7 @@
 
   <h1>Python</h1>
 
-  <h3>Materi & Latihan Bahasa Pemrograman Python - Bu Marissa</h3>
+  <h3>Materi & Latihan Bahasa Pemrograman Python</h3>
 
   [![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![Made With](https://img.shields.io/badge/Made_with-Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org/)

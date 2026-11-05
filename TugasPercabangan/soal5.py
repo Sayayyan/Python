@@ -9,4 +9,4 @@ elif bilangan2 > bilangan1 and bilangan2 < bilangan3 or bilangan2 < bilangan1 an
 elif bilangan3 > bilangan1 and bilangan3 < bilangan2 or bilangan3 < bilangan1 and bilangan3 > bilangan2:
     print("Bilangan tengah adalah bilangan 3, yaitu bilangan dengan nilai", bilangan3)
 else:
-    print("Tidak ada bilangan tengah yang unik karena terdapat bilangan yang sama")
+    print("Tidak ada bilangan karena terdapat bilangan yang sama")
